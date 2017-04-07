@@ -1,7 +1,7 @@
 package lambda;
 
 /**
- * Created by shuaihan on 2017/4/7.
+ * Created by 13 on 2017/4/7.
  */
 public class GreetingServiceTest {
     public static void main(String args[]) {
