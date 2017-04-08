@@ -10,6 +10,7 @@ import java.util.List;
  */
 public class CollectionSortTest {
     public static void main(String args[]) {
+
         List<String> list1 = Arrays.asList("peter", "anna", "mike", "xenia");
         sort(list1);
         for (String name : list1
